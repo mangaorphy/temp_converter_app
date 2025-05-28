@@ -27,7 +27,8 @@ class TemperatureConverterApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Converter'),
         ),
-        body: HomeScreen(),
+        body: SafeArea(child: HomeScreen(),
+        )
       ),
     );
   }
