@@ -1,16 +1,26 @@
-# temp_converter_app
+# Temperature Converter App
 
-A new Flutter project.
+![App Screenshot](assets/temp_convertoer.jpeg)
 
-## Getting Started
+A simple yet powerful temperature conversion tool that allows users to convert between Celsius and Fahrenheit scales with ease.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Bidirectional Conversion**: Convert from Celsius to Fahrenheit and vice versa
+- **User-Friendly Interface**: Can work on potrait mode.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How It Works
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Input Temperature**:
+   - Enter a numerical value in either the Celsius or Fahrenheit field
+2. **Automatic Conversion**:
+   - The app instantly calculates and displays the equivalent temperature in the other scale
+
+## Usage Examples
+
+- Convert 25°C to Fahrenheit → 77°F
+- Convert 98.6°F to Celsius → 37°C
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
